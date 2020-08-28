@@ -1,5 +1,5 @@
 # A method of plotting 'spider' graphs from networkx in Tableau: an example.
-Showcasing a method of plotting networkx public transport networks in tableau.
+Showcasing a small and simple method of plotting networkx public transport networks in tableau.
 
 ### step 0: imports
 ```python
