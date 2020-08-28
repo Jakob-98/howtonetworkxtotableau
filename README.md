@@ -58,7 +58,7 @@ for edge in list(graph.edges()):
     
 networkdf.to_excel('networkgraph.xlsx')    
 ```
-The key here is to define a 'start' and 'end' of each edge. This will be used in Tableau to draw the lines representing the links. Make sure the edge name here is identical to the edge name in your metrics sheet so joining is made easy. 
+The key here is to define a 'start' and 'end' of each edge. This will be used in Tableau to draw the lines representing the links. Make sure the edge name here is identical to the edge name in your metrics sheet so joining is made easy. The reference datafile in this repo is named 'networkgraph2.xlsx'.
 
 ### step 3: load your reference xlsx file, as well as your metrics xlsx file in tableau and join them: 
 
