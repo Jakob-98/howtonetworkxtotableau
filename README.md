@@ -1,4 +1,4 @@
-# A method of plotting 'spider' graphs from networkx in Tableau: an example.
+# A method of plotting public transport graphs from networkx in Tableau: an example.
 Showcasing a small and simple method of plotting networkx public transport networks in tableau.
 
 ### step 0: imports
